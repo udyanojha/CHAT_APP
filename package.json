@@ -1,0 +1,22 @@
+{
+  "name": "talkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./backend/server.js"
+  },
+  "author": "Udyan Ojha",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/react": "^2.4.1",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "framer-motion": "^7.6.12",
+    "mongoose": "^6.7.5",
+    "nodemon": "^2.0.20",
+    "react-router-dom": "^5.3.4"
+  }
+}
